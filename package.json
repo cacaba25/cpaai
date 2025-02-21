@@ -1,5 +1,5 @@
 {
-  "name": "cpa-ai-dashboard",
+  "name": "cpaai",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
     "vercel-build": "npm run build"
   },
   "dependencies": {
-    "next": "^12.0.0", // Add the appropriate version of Next.js
+    "next": "^12.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
